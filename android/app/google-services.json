@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150980239760",
+    "project_id": "ecommerce-c77e0",
+    "storage_bucket": "ecommerce-c77e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150980239760:android:0cf7849d500d4ebb1e5315",
+        "android_client_info": {
+          "package_name": "com.example.techor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150980239760-o6dkfmc713kvu47j0l8t6trcnpnmtj96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtcewdArkl_CcNuEvMkvF5SK7Fr04lLaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150980239760-o6dkfmc713kvu47j0l8t6trcnpnmtj96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
